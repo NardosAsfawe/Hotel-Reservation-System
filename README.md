@@ -1,4 +1,9 @@
 # Hotel-Reservation-System
+
+<H1>Entity Relationship Diagram </H1>
+
+![](https://github.com/NardosMe/Hotel-Reservation-System/blob/master/IS420_ERD.jpg?raw=true)
+
 <H1>Add a new hotel:</H1> <H2> Create a new hotel with appropriate information about the hotel as input parameters.</H2> 
 
 ![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/add_hotel.png)
