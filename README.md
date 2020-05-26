@@ -11,10 +11,10 @@
 <H1>Display hotel info:</H1> <H2> Given a hotel ID, display all information about that hotel (Includes room, rates and availability)</H2> 
 
 ![](https://github.com/NardosMe/Hotel-Reservation-System/blob/master/Display%20hotel%20info.png?raw=true)
-<H1>Make a reservation:</H1> <H2> <br>Input parameters: Hotel ID, guest’s name, start date, end date, room type, date of reservation, etc. <br>Output:reservation ID (this is called confirmation code in real-life).</H2> 
+<H1>Make a reservation:</H1> <H2> Input parameters: Hotel ID, guest’s name, start date, end date, room type, date of reservation, etc. <br>Output: reservation ID (this is called confirmation code in real-life).</H2> 
 
 ![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/make%20reservation.png)
-<H1>Find a reservation:</H1> <H2> Input is guest’s name and date, hotel ID. Output is reservation ID</H2> 
+<H1>Find a reservation:</H1> <H2> Input is guest’s name and date, hotel ID. <br>Output is reservation ID</H2> 
 
 ![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/find%20reservation.png)
 <H1>Cancel a reservation:</H1> <H2> Input the reservationID and mark the reservation as cancelled (do NOT delete it)</H2> 
