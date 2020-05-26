@@ -13,13 +13,13 @@
 ![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/Display hotel info.png)
 <H1>Make a reservation: Input parameters: Hotel ID, guest’s name, start date, end date, room type, date of reservation, etc. Output: reservation ID (this is called confirmation code in real-life).</H1> 
 
-![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/make reservation.png)
+![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/make/reservation.png)
 <H1>Find a reservation: Input is guest’s name and date, hotel ID. Output is reservation ID</H1> 
 
 ![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/find reservation.png)
 <H1>Cancel a reservation: Input the reservationID and mark the reservation as cancelled (do NOT delete it)</H1> 
 
-![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/cancel reservation.png)
+![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/cancel/reservation.png)
 <H1>Change a reservationRoomType: Input the reservation ID and change reservation room type if there is availability for that room type during the reservation’s date interval</H1> 
 
 ![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/change_roomtype.png)
