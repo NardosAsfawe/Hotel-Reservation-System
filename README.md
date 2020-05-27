@@ -1,6 +1,6 @@
-# Hotel-Reservation-System
+# Hotel Reservation System
 
-<H1>Entity Relationship Diagram </H1>
+<H2>Entity Relationship Diagram </H2>
 
 ![](https://github.com/NardosMe/Hotel-Reservation-System/blob/master/IS420_ERD.jpg?raw=true)
 
