@@ -38,6 +38,7 @@ Include guest name, hotel Name and ID, start date, end date, room type, date of 
 
 ![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/income_by_state.png)
 
-<H3>Input is hotel ID. Print total income of hotel by room type. </H3>
+<H3>Input is hotel ID. </H3>
+<P>Print total income of hotel by room type. </p>
 
 ![](https://raw.githubusercontent.com/NardosMe/Hotel-Reservation-System/master/income_by_id.png)
