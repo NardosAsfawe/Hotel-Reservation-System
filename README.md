@@ -1,5 +1,7 @@
 # Hotel Reservation System
 
+<h3>Nardos Asfawe</h3>
+
 <H3>Entity Relationship Diagram </H3>
 
 ![](https://github.com/NardosMe/Hotel-Reservation-System/blob/master/IS420_ERD.jpg?raw=true)
